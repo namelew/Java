@@ -1,5 +1,3 @@
-package cc_execices;
-
 import java.util.Scanner;
 
 public class quest5 {

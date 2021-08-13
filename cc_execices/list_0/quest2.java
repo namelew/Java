@@ -1,5 +1,3 @@
-package cc_execices.list_0;
-
 public class quest2 {
     public static void main(String[] args){
         int a = 1, b = 3;

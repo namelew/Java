@@ -1,5 +1,3 @@
-package cc_execices.list_0;
-
 public class quest1 {
     public static void main(String[] args){
         System.out.println("Programação I");
